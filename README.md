@@ -27,15 +27,15 @@
 
 </div>
 
-|                  |                                                                                                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 👤 **Name**      | Jay Han                                                                                                                                           |
-| 🌏 **Based in**  | Chicago, IL · Seoul, South Korea                                                                                                                  |
-| 🎓 **Education** | M.S. @ Illinois Institute of Technology                                                                                                           |
-| 💼 **Role**      | Frontend-focused Software Developer                                                                                                               |
-| 🔨 **Building**  | [Breedge](https://github.com/jinscodes) · [Tact](https://github.com/jinscodes/app_tact) · [This Portfolio](https://jay-han-portfolio.vercel.app/) |
-| 💡 **Interests** | UI/UX · Design Systems · AI-driven interfaces                                                                                                     |
-| ✉️ **Contact**   | [jayhan0215@gmail.com](mailto:jayhan0215@gmail.com)                                                                                               |
+|                  |                                                                                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 👤 **Name**      | Jay Han                                                                                                                                      |
+| 🌏 **Based in**  | Chicago, IL                                                                                                                                  |
+| 🎓 **Education** | B.S. @ Illinois Institute of Technology                                                                                                      |
+| 💼 **Role**      | Software Developer                                                                                                                           |
+| 🔨 **Building**  | [Breedge](https://github.com/jinscodes) · [Tact](https://github.com/jinscodes/app_tact) · [Portfolio](https://jay-han-portfolio.vercel.app/) |
+| 💡 **Interests** | AI-driven interfaces · ML · Data Analysis                                                                                                    |
+| ✉️ **Contact**   | [jayhan0215@gmail.com](mailto:jayhan0215@gmail.com) · [jhan38@hawk.illinoistech.edu](mailto:jhan38@hawk.illinoistech.edu)                    |
 
 ---
 
@@ -75,12 +75,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinscodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinscodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinscodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=3600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinscodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=3600"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=jinscodes&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=jinscodes&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
 
 <br/>
 
