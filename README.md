@@ -75,8 +75,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinscodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=3600"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinscodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=3600"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinscodes&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinscodes&theme=tokyonight"/>
 
 <br/>
 
@@ -92,16 +92,12 @@
 
 ## ◈ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/jinscodes/app_tact">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jinscodes&repo=app_tact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/jinscodes/PRACTO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jinscodes&repo=PRACTO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project                                           | Description                                                                          | Stack                                 |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------- |
+| [**Tact**](https://github.com/jinscodes/app_tact) | Cross-platform link management app with robust state management and data persistence | `React Native` `Expo` `SQLite`        |
+| [**PRACTO**](https://github.com/jinscodes/PRACTO) | AI doctor matchmaking and voice-activated booking system using Web Speech API        | `React` `JavaScript` `Web Speech API` |
+| [**Breedge**](https://github.com/jinscodes)       | Platform connecting developers and designers to form project teams and collaborate   | `Next.js` `TypeScript` `Supabase`     |
+| [**Tech Blog**](https://jay-h-blog.vercel.app/)   | Personal technical blog covering frontend development and engineering thoughts       | `Next.js` `MDX` `Vercel`              |
 
 ---
 
