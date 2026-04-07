@@ -21,16 +21,21 @@
 
 ## ◈ About Me
 
-```typescript
-const jinscodes = {
-  role: "Full-Stack Developer",
-  location: "Seoul, South Korea 🇰🇷",
-  focus: ["Clean Architecture", "Scalable Systems", "Great UX"],
-  philosophy: "Code is poetry — every line should have intention.",
-  currentlyOn: "Building something meaningful, one commit at a time. 🔨",
-  funFact: "I debug with coffee ☕ and solve problems in the shower 🚿",
-};
-```
+<div align="center">
+
+> _"Code is poetry — every line should have intention."_
+
+</div>
+
+|                  |                                                                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 👤 **Name**      | Jay Han                                                                                                                                           |
+| 🌏 **Based in**  | Chicago, IL · Seoul, South Korea                                                                                                                  |
+| 🎓 **Education** | M.S. @ Illinois Institute of Technology                                                                                                           |
+| 💼 **Role**      | Frontend-focused Software Developer                                                                                                               |
+| 🔨 **Building**  | [Breedge](https://github.com/jinscodes) · [Tact](https://github.com/jinscodes/app_tact) · [This Portfolio](https://jay-han-portfolio.vercel.app/) |
+| 💡 **Interests** | UI/UX · Design Systems · AI-driven interfaces                                                                                                     |
+| ✉️ **Contact**   | [jayhan0215@gmail.com](mailto:jayhan0215@gmail.com)                                                                                               |
 
 ---
 
@@ -75,7 +80,7 @@ const jinscodes = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jinscodes&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=jinscodes&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak stats"/>
 
 <br/>
 
@@ -89,8 +94,11 @@ const jinscodes = {
 
 <div align="center">
 
-<a href="https://github.com/jinscodes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jinscodes&repo=jinscodes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<a href="https://github.com/jinscodes/app_tact">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jinscodes&repo=app_tact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/jinscodes/PRACTO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jinscodes&repo=PRACTO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -101,17 +109,17 @@ const jinscodes = {
 
 <div align="center">
 
-<a href="mailto:your@email.com">
+<a href="mailto:jayhan0215@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/jay-han-49974920a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://yourportfolio.dev">
+<a href="https://jay-han-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://velog.io/@yourprofile">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+<a href="https://jay-h-blog.vercel.app/">
+  <img src="https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
